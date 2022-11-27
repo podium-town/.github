@@ -1,7 +1,8 @@
 ## Welcome to Podium 👋
-Future Social Network.
+Open Social Network.
 
-- governed by people
 - open sourced
 - decentralized algorithm on blockchain
 - free speech
+- ad-free
+- governed by people via voting
